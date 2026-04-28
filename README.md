@@ -1,4 +1,4 @@
-# 🍪 Biscuit Quality Classification using Edge-Based Image Processing
+# 🍪 Broken Biscuit Detection using Classical Image Processing Techniques
 
 ## 📌 Problem Description
 
@@ -13,7 +13,8 @@ All images are processed assuming a simple background, allowing accurate detecti
 
 ## 🛠️ Tools and Libraries
 
-- Python 3.x  
+- Python 3.x
+- OS Module
 - OpenCV (`cv2`)  
 - NumPy  
 
@@ -40,10 +41,10 @@ The system follows an edge-based detection pipeline:
 ## ▶️ Instructions to Run the Code
 
 ```bash
-git clone https://github.com/yourusername/biscuit-detection.git
+git clone https://github.com/thamiya2001/Broken-Biscuit-Detection.git
 cd biscuit-detection
 pip install opencv-python numpy
-python main.py
+python code.ipynb
 ```
 
 ---
