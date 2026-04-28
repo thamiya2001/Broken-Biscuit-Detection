@@ -1,17 +1,17 @@
-# 🍪 Broken Biscuit Detection using Classical Image Processing Techniques
+# Broken Biscuit Detection using Classical Image Processing Techniques
 
-## 📌 Problem Description
+## Problem Description
 
 This project focuses on automatically identifying whether biscuits are **intact or broken** from images.  
 Instead of manual inspection, image processing techniques are used to analyze the shape of each biscuit and make a decision.
 
 All images are processed assuming a simple background, allowing accurate detection of biscuit boundaries.
 
-⚠️ This project uses only classical image processing (no machine learning).
+This project uses only classical image processing (no machine learning).
 
 ---
 
-## 🛠️ Tools and Libraries
+## Tools and Libraries
 
 - Python 3.x
 - OS Module
@@ -20,7 +20,7 @@ All images are processed assuming a simple background, allowing accurate detecti
 
 ---
 
-## 🧠 Processing Approach
+## Processing Approach
 
 The system follows an edge-based detection pipeline:
 
@@ -38,7 +38,7 @@ The system follows an edge-based detection pipeline:
 
 ---
 
-## ▶️ Instructions to Run the Code
+## Instructions to Run the Code
 
 ```bash
 git clone https://github.com/thamiya2001/Broken-Biscuit-Detection.git
@@ -49,7 +49,7 @@ python code.ipynb
 
 ---
 
-## 🖼️ Example Output Images
+## Example Output Images
 
 ### Input
 
